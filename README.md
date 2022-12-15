@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jemish581
 - 👀 I’m interested in Node js/Api's
-- 🌱 I’m currently learning how to create Api's
+- 🌱 Always learning the ongoing development of new .js frameworks,
